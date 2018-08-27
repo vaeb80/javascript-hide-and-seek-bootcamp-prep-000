@@ -1,3 +1,5 @@
+/* "mocha-jsdom": "~1.1.0" paste this in case it doesn't work again later*/
+
 function getFirstSelector(selector){
   /*Accepts a selector and returns the first element that matches.*/
   return document.querySelector(`${selector}`)
