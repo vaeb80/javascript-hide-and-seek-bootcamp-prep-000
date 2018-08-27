@@ -4,7 +4,7 @@ function getFirstSelector(selector){
 }
 function nestedTarget(){
   /* pulls a .target out of #nested, note that # is used for IDs in selectors. */
-  return document.querySelectorAll()
+  return document.querySelector(div).target
 }
 function increaseRankBy(n){
   /*Increases the ranks in all of the .ranked-list by n, might need parseInt() */
