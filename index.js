@@ -11,4 +11,5 @@ function increaseRankBy(n){
 }
 function deepestChild(){
   /*pulls out the most deeply nested child from div#grand-node, iterate over elements and call querySelector() and querySelectorAll()*/
+  
 }
